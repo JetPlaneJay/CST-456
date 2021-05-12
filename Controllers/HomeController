@@ -1,0 +1,9 @@
+I would like to create a web page where the people for a bicycle shop
+are able to walk into the physical store, walk to the store's tablet, and sign-in for work.
+
+
+The web page would:
+1) allow for sign-ins that update a database
+2) the database then updates the frontend to reflect the sign-in
+3) allow for updates to inventory/bikes-in-shop
+4) have one page that's used for suggestions and/or for local biking event news

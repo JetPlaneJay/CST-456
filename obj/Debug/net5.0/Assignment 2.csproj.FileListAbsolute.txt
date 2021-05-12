@@ -1,0 +1,40 @@
+C:\Spring2021Term\CST456\Assignment 2\bin\Debug\net5.0\appsettings.Development.json
+C:\Spring2021Term\CST456\Assignment 2\bin\Debug\net5.0\appsettings.json
+C:\Spring2021Term\CST456\Assignment 2\bin\Debug\net5.0\Assignment 2.exe
+C:\Spring2021Term\CST456\Assignment 2\bin\Debug\net5.0\Assignment 2.deps.json
+C:\Spring2021Term\CST456\Assignment 2\bin\Debug\net5.0\Assignment 2.runtimeconfig.json
+C:\Spring2021Term\CST456\Assignment 2\bin\Debug\net5.0\Assignment 2.runtimeconfig.dev.json
+C:\Spring2021Term\CST456\Assignment 2\bin\Debug\net5.0\Assignment 2.dll
+C:\Spring2021Term\CST456\Assignment 2\bin\Debug\net5.0\ref\Assignment 2.dll
+C:\Spring2021Term\CST456\Assignment 2\bin\Debug\net5.0\Assignment 2.pdb
+C:\Spring2021Term\CST456\Assignment 2\bin\Debug\net5.0\Assignment 2.Views.dll
+C:\Spring2021Term\CST456\Assignment 2\bin\Debug\net5.0\Assignment 2.Views.pdb
+C:\Spring2021Term\CST456\Assignment 2\obj\Debug\net5.0\Assignment 2.csprojAssemblyReference.cache
+C:\Spring2021Term\CST456\Assignment 2\obj\Debug\net5.0\Assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Spring2021Term\CST456\Assignment 2\obj\Debug\net5.0\Assignment 2.AssemblyInfoInputs.cache
+C:\Spring2021Term\CST456\Assignment 2\obj\Debug\net5.0\Assignment 2.AssemblyInfo.cs
+C:\Spring2021Term\CST456\Assignment 2\obj\Debug\net5.0\Assignment 2.csproj.CoreCompileInputs.cache
+C:\Spring2021Term\CST456\Assignment 2\obj\Debug\net5.0\Assignment 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Spring2021Term\CST456\Assignment 2\obj\Debug\net5.0\Assignment 2.RazorAssemblyInfo.cache
+C:\Spring2021Term\CST456\Assignment 2\obj\Debug\net5.0\Assignment 2.RazorAssemblyInfo.cs
+C:\Spring2021Term\CST456\Assignment 2\obj\Debug\net5.0\staticwebassets\Assignment 2.StaticWebAssets.Manifest.cache
+C:\Spring2021Term\CST456\Assignment 2\obj\Debug\net5.0\staticwebassets\Assignment 2.StaticWebAssets.xml
+C:\Spring2021Term\CST456\Assignment 2\obj\Debug\net5.0\scopedcss\bundle\Assignment 2.styles.css
+C:\Spring2021Term\CST456\Assignment 2\obj\Debug\net5.0\Assignment 2.TagHelpers.input.cache
+C:\Spring2021Term\CST456\Assignment 2\obj\Debug\net5.0\Assignment 2.TagHelpers.output.cache
+C:\Spring2021Term\CST456\Assignment 2\obj\Debug\net5.0\Assignment 2.RazorCoreGenerate.cache
+C:\Spring2021Term\CST456\Assignment 2\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Spring2021Term\CST456\Assignment 2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Spring2021Term\CST456\Assignment 2\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Spring2021Term\CST456\Assignment 2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Spring2021Term\CST456\Assignment 2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Spring2021Term\CST456\Assignment 2\obj\Debug\net5.0\Assignment 2.RazorTargetAssemblyInfo.cache
+C:\Spring2021Term\CST456\Assignment 2\obj\Debug\net5.0\Assignment 2.RazorTargetAssemblyInfo.cs
+C:\Spring2021Term\CST456\Assignment 2\obj\Debug\net5.0\Assignment 2.Views.pdb
+C:\Spring2021Term\CST456\Assignment 2\obj\Debug\net5.0\Assignment 2.dll
+C:\Spring2021Term\CST456\Assignment 2\obj\Debug\net5.0\ref\Assignment 2.dll
+C:\Spring2021Term\CST456\Assignment 2\obj\Debug\net5.0\Assignment 2.pdb
+C:\Spring2021Term\CST456\Assignment 2\obj\Debug\net5.0\Assignment 2.genruntimeconfig.cache
+C:\Spring2021Term\CST456\Assignment 2\obj\Debug\net5.0\Assignment 2.csproj.CopyComplete
+C:\Spring2021Term\CST456\Assignment 2\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Spring2021Term\CST456\Assignment 2\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
